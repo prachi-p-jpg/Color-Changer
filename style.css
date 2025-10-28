@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(224, 149, 10);
+}
+.container{
+    text-align: center;
+   
+}
+#color{
+    font-family: Arial, sans-serif;
+    margin-top: 1.875rem;
+    font-size: 5.625rem;
+   
+}
+#btn{
+    padding: 1.25rem;
+    font-size: 2.5rem;
+    margin-top: 4.375rem;
+    cursor: pointer;
+    border-radius: 3.125rem;
+    background-color: rgb(53, 49, 49);
+    text-shadow: black 0.0625rem 0.0625rem 0.125rem;
+}
+h2{
+    font-family: Arial, sans-serif;
+    margin-top: 0.625rem;
+    font-size: 2.1875rem;
+}
