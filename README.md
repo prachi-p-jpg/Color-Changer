@@ -38,6 +38,4 @@ The design is **responsive** and works perfectly on all screen sizes — mobile,
 - Add sound or animation on color change
 - Include Sound effect on click
 
----
 
-⭐ *This is one of my first responsive JavaScript projects while learning Web Development!*
